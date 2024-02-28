@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+button.btn.btn-success{
+  font-size: 18px;
+  color: white;
+  background: rgb(2, 153, 2);
+  border-radius: 5px;
+  border: none;
+  margin-left: 5px;
+}
